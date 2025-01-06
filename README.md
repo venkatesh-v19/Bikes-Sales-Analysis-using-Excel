@@ -38,9 +38,6 @@ This project focuses on analyzing bike sales data and presenting insights throug
 ## Contributing
 Contributions are welcome! Feel free to fork this repository and submit pull requests with enhancements or new features.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 For any queries or feedback, feel free to reach out!
