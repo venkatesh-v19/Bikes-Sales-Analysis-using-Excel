@@ -21,6 +21,15 @@ This project focuses on analyzing bike sales data and presenting insights throug
 2. Navigate to the Dashboard tab to explore the analysis visually.
 3. Use slicers and filters to interact with the data.
 
+## Key Performance Indicators (KPIs)
+  - How many bikes were sold in total?
+  - Which regions had the highest and lowest bike sales?
+  - What is the gender-wise distribution of bike sales?
+  - How does marital status influence bike purchases?
+  - What is the average income of customers who purchased bikes?
+  - Does car ownership affect bike purchases?
+  - What is the distribution of bike sales by commute distance?
+
 ## Insights Derived
 - Seasonal trends in bike sales.
 - Performance comparison across regions and brands.
