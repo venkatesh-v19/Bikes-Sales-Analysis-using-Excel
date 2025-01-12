@@ -3,6 +3,8 @@
 ## Project Overview
 This project focuses on analyzing bike sales data and presenting insights through an interactive and visually appealing dashboard. It utilizes Microsoft Excel for data processing, analysis, and visualization, showcasing key metrics and trends in bike sales.
 
+![Project Logo](DashboardPreview.png)
+
 ## Key Features
 - **Data Cleaning**: Preprocessing raw data for analysis.
 - **Data Analysis**: Identifying trends, patterns, and insights in bike sales.
